@@ -1,0 +1,9 @@
+
+.myimg{
+   border: 1px solidcolor rgb(129, 241, 210);
+   border: radius 50px;
+   width: 150px;
+} 
+.background{
+    background: rgb(129, 241, 210);
+}
